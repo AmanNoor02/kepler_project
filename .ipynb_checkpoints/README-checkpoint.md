@@ -3,6 +3,7 @@
 ## Overview
 This project uses the NASA Kepler cumulative dataset to classify Kepler Objects of Interest (KOIs) as:
 - CANDIDATE
+- CONFIRMED
 - FALSE POSITIVE
 
 It is a multi-class supervised learning problem using astronomical features.
